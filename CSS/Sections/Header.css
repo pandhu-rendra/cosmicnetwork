@@ -37,6 +37,8 @@
 	.header-text h1 {
 		font-size: 42px;
 		align-items: center;
+		justify-content: center;
+		text-align: center;
 	}
 
 	.header-text span {
