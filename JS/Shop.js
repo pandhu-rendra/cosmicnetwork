@@ -87,7 +87,7 @@ function setupPopup(openBtn, closeBtn, popup, overlay) {
     popup8,
     overlay8
   );
-
+  
   // =====================
   //   PURCHASE SYSTEM
   // =====================
@@ -155,7 +155,7 @@ function setupPopup(openBtn, closeBtn, popup, overlay) {
       document.getElementById('buy-item-7'),
       'cart-item-7'
   );
-  // BUY FOR ITEM SHOP 7
+  // BUY FOR ITEM SHOP 8
   buyItem(
       document.getElementById('buy-item-8'),
       'cart-item-8'
