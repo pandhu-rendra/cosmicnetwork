@@ -83,7 +83,7 @@ function setupPopup(openBtn, closeBtn, popup, overlay) {
   const overlay8 = document.querySelector(".overlay");
   setupPopup(
       document.getElementById("open-popup-7"),
-      document.getElementById("close-popup-8),
+      document.getElementById("close-popup-8"),
       popup8,
       overlay8
   );
@@ -156,7 +156,7 @@ function setupPopup(openBtn, closeBtn, popup, overlay) {
       'cart-item-7'
   );
   // BUY FOR ITEM SHOP 7
-buyItem(
-    document.getElementById('buy-item-8'),
-    'cart-item-8'
+  buyItem(
+      document.getElementById('buy-item-8'),
+      'cart-item-8'
   );
