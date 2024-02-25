@@ -82,7 +82,7 @@ function setupPopup(openBtn, closeBtn, popup, overlay) {
   const popup8 = document.getElementById("benefits-8");
   const overlay8 = document.querySelector(".overlay");
   setupPopup(
-      document.getElementById("open-popup-7"),
+      document.getElementById("open-popup-8"),
       document.getElementById("close-popup-8"),
       popup8,
       overlay8
