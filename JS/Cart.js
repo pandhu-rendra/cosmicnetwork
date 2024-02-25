@@ -71,7 +71,7 @@ document.getElementById("remove-item-7").addEventListener("click", function (eve
    location.reload();
 });
 document.getElementById("remove-item-8").addEventListener("click", function (event) {
-  event.preventDefault();
-  removeFromCart('cart-item-8');
-  location.reload();
+   event.preventDefault();
+   removeFromCart('cart-item-8');
+   location.reload();
 });
