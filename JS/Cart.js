@@ -70,3 +70,8 @@ document.getElementById("remove-item-7").addEventListener("click", function (eve
    removeFromCart('cart-item-7');
    location.reload();
 });
+document.getElementById("remove-item-8").addEventListener("click", function (event) {
+  event.preventDefault();
+  removeFromCart('cart-item-8');
+  location.reload();
+});
